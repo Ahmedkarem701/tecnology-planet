@@ -108,6 +108,7 @@
 @media all and (max-width: 991px) {
 	.toggle-btn {
 	    top: 2px;
+	    background : #fff;		
 	}
 	.image-hover-animate img {
 		width: 100%;
