@@ -1956,10 +1956,10 @@ ul {
   position: relative;
 }
 .navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children .sub-menu li:hover {
-  background: #061539;
+  background: #;
 }
 .navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children .sub-menu li:hover a {
-  color: #fff;
+  color: #061539;
   padding: 10px 20px 10px 20px;
 }
 .navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children .sub-menu li:hover a:before {
