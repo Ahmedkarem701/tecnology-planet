@@ -145,6 +145,7 @@
 	    color: var(--main-color);
 	}
 	.navbar-area-3 .nav-container {
+	    background: var(--heading-color)
 	    border-bottom: 0;
 	}
 	.navbar-area-3 .nav-container {
